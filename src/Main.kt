@@ -1,4 +1,3 @@
-import java.sql.SQLOutput
 
 fun main() {
 
@@ -12,9 +11,6 @@ fun main() {
     println("RESTA")
     println("MULTIPLICACION")
     println("DIVISION")
-
-
-
 
 
 }
